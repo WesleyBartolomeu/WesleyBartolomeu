@@ -13,7 +13,7 @@
 - 🔭 Cursando Analise e desenvolvimento de Sistemas.
 - 🌱 Estudante/desenvolvedor de Front-end.
 - 👯 Disposto a trabalhar em outras áreas.
-- 🤔 Em busca de uma Vaga Jr/Trainee em qualquer área de desenvolvimento.
+- 🤔 WebMaster Jr in TBB
 - 📫 Você me encontra no www.linkedin.com/in/wesley-bartolomeu-santos.
 - 🙌 Estudando React.
 
