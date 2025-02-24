@@ -12,7 +12,7 @@
 
 - 🔭 Cursando Analise e desenvolvimento de Sistemas.
 - 🌱 Estudante/desenvolvedor de Front-end.
-- 🤔 WebMaster Jr in TBB
+- 🤔 Developer Jr in TBB
 - 📫 Você me encontra no www.linkedin.com/in/wesley-bartolomeu-santos.
 
 <div style="display: inline_block"><br>
